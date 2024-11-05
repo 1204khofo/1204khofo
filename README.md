@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kofoworola Akadri
-- 👀 I’m interested in Data Entry, Data Analysis
+- 👀 I’m a Data Entry Officer and a Data Analyst
 - 💞️ I’m looking to collaborate on any Data Analysis Project that involes the use of Excel, Sql and Power BI 
 - 😄 Pronouns: SHE/HER
 
